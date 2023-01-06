@@ -9,7 +9,7 @@ options:
 ```
 Make sure to adjust the values in "config.ini" and "wallets.txt".
 
-## API
+## Binance API Keys
 You can generate API keys for your account under "https://www.binance.com/en/my/settings/api-management". Enable "Withdrawal" permissions after the generation and **DO NOT SHARE THEM WITH ANYONE**.
 
 
