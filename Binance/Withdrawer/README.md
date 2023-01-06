@@ -7,7 +7,7 @@ options:
   
   -V, --version         show program's version number and exit
 ```
-Make sure to adjust config values and input the addresses in proper format.
+Make sure to adjust the values in "config.ini" and "wallets.txt". You can generate API keys for your account under "https://www.binance.com/en/my/settings/api-management". Enable "Withdrawal" permissions after the generation and **DO NOT SHARE THEM WITH ANYONE**.
 
 
 ## Installation
