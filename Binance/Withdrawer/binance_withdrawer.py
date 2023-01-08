@@ -45,7 +45,7 @@ def main():
             if index == len(wallets)-1:
                 pass
             else:
-                sleep(5)
+                sleep(2)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Script that automates asset withdrawals using the API. '
