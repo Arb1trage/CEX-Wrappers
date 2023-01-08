@@ -1,0 +1,3 @@
+#WARNING: Withdrawals to non-default chains, like BEP2 ETH to BNB is currently not supported.
+#Format: [WALLET ADDRESS] [WITHDRAWAL AMOUNT] [CURRENCY TICKER]
+0x000000000000000000000000000000000000DeAD 0.5 ETH
