@@ -3,7 +3,7 @@
 usage: kucoin_withdrawer.py [-h] [-V, --version]
 
 options:
-  -h, --help            show this help message and exit
+  -h, --help            show the help message and exit
   
   -V, --version         show program's version number and exit
 ```
