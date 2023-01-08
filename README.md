@@ -4,5 +4,5 @@
 Repository for scripts working with CEX APIs to automate repeatable, time-consuming activities associated with wallet management. 
 
 ## Features [Open to suggestions]
-[Supported: Binance]
+[Supported: Binance | KuCoin]
 - Asset withdrawals to multiple wallet addresses. Supports custom asset amounts and randomized delay between withdrawals.
